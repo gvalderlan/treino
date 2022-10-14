@@ -1,12 +1,13 @@
 <?php
 
-
 class DbData
 {
   const OBJECT = 1;
   const ARRAY_ASSOC = 2;
   const ARRAY_NUM = 3;
   const ARRAY_BOTH = 4;
+  #####Esta linha esta alterada
+  $var = "teste";
 
   private $o_PDOStatment;
 
