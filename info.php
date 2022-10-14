@@ -1,5 +1,5 @@
 <?php
 
-echo "Versão do PHP - MPMT";
+echo "Versão do PHP";
 
 phpinfo();
