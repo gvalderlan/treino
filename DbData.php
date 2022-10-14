@@ -7,7 +7,7 @@ class DbData
   const ARRAY_NUM = 3;
   const ARRAY_BOTH = 4;
   #####Esta linha esta alterada
-  $var = "teste";
+  $var = "Novo Teste - Lucas";
 
   private $o_PDOStatment;
 
