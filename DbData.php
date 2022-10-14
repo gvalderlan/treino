@@ -11,6 +11,7 @@ class DbData
   $var2 = "Teste 03";
   $var3 = "Teste";
   $var4 = "Teste 4";
+  $var5 = "Teste 5";
 
   private $o_PDOStatment;
 
